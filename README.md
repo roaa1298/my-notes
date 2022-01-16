@@ -8,6 +8,11 @@ Hi my name is **roaa hailat** form jordan, I am **23** years old, I graduated fr
 
 3. learning a new language 
 
+![profile picture](https://cdn.allthings.how/wp-content/uploads/2020/10/allthings.how-how-to-change-your-profile-picture-on-google-meet-profile-photo-759x427.png?width=600)
+
+
+
+
 ### the fundamentals of a good developer mindset
 To avoid being one of the victims, you should **embrace the fundamental laws of software**. You should **develop a mindset that every developer should have**. This mindset will help you ***make better decisions in your daily programming journey***. You can ***keep your software as simple as possible***. You can ***protect it from being an unmanageable and complex system***.
 ### Here are the key points that every developer must master:
